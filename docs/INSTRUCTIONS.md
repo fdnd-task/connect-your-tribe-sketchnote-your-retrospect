@@ -100,5 +100,5 @@ M: Je combineert aangeboden principes en conventies op het gebied van frontend, 
 
 Deze opdracht is done als:
 
-Je een retrospect in de vorm van een tijdlijn en in de vorm van een metafoor hebt gemaakt.  
+Je twee retrospects hebt gemaakt, een in de vorm van een tijdlijn en een in de vorm van een metafoor.  
 Jouw tekeningen zijn gedocumenteerd in de Readme van de leertaak
