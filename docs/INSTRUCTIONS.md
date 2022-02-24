@@ -79,9 +79,10 @@ Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en h
 
 Deze leertaak hoort bij het gedragscriterium:
 
+S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
 M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.
 
 Deze opdracht is done als:
 
- Je hebt 1 of meerdere experimenten gedaan
- De code is per experminent gedocumenteerd in de Readme van de leertaak
+ Je een retrospect in de vorm van een tijdlijn en in de vorm van een metafoor hebt gemaakt.
+Jouw tekeningen zijn gedocumenteerd in de Readme van de leertaak
