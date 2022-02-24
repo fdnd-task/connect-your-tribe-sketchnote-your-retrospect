@@ -62,7 +62,7 @@ Pas nu ook hierarchie (d.m.v. kleur en verschillende lijndiktes) en eventueel sc
 	
 #### Materiaal analysefase
 
-- [Resource](https://example.com)
+- [Sketchnote Mini Workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&t=451s)
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
