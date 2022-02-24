@@ -31,7 +31,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 4.	Schrijf op:  
 •	Gele post-its: onderwerpen die met het proces te maken hebben.  
 •	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
-•	Blauwe post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben. 
+•	Roze post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben. 
     
 5.	Plak de post-its op de juiste plek op de tijdlijn.  
 6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een post-it en plak deze aan het eind van de tijdlijn.  
