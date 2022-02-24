@@ -2,7 +2,7 @@
 
 # Connect Your -Tribe - Sketchnote your retrospect
 
-{Oefen sketchnoting, schetsen, verhoudingen, hierarchie en kleurgebruik door jouw retrospect te schetsen. Krijg nieuwe inzichten door op een andere manier naar afgelopen sprint te kijken en metaforen te gebruiken }.
+Oefen sketchnoting, schetsen, verhoudingen, hierarchie en kleurgebruik door jouw retrospect te schetsen. Krijg nieuwe inzichten door op een andere manier naar afgelopen sprint te kijken en metaforen te gebruiken.
 
 ## Context
 Deze leertaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je individueel uitvoert als experiment.
