@@ -63,7 +63,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 	Pas nu ook hierarchie (d.m.v. kleur en verschillende lijndiktes) en eventueel schaduw toe.   
 	
 	
-#### Materiaal analysefase
+#### Materiaal 
 
 - [Sketchnote Mini Workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&t=451s)
 - [Wat is een Scrum Retrospective?](https://agilescrumgroup.nl/retrospective-vormen-ideeen-voorbeelden/)
