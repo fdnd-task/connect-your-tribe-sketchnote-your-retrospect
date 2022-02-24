@@ -27,6 +27,8 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 1.	Teken een tijdlijn.  
 2.	Teken op de tijdlijn enkele belangrijke gebeurtenissen die tijdens de sprint hebben plaatsgevonden.  
+![1](https://user-images.githubusercontent.com/55133339/155608242-67bbd286-57c6-4aef-8e6c-04e981deb3a9.png)
+
 3.	Teken boven de lijn een blije- en onder de lijn een verdrietige smiley.  
 4.	Schrijf op:  
 •	Gele post-its: onderwerpen die met het proces te maken hebben.  
