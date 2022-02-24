@@ -1,6 +1,6 @@
 
 
-# {Connect Your -Tribe - Sketchnote your retrospect}
+# Connect Your -Tribe - Sketchnote your retrospect
 
 {Oefen sketchnoting, schetsen, verhoudingen, hierarchie en kleurgebruik door jouw retrospect te schetsen. Krijg nieuwe inzichten door op een andere manier naar afgelopen sprint te kijken en metaforen te gebruiken }.
 
@@ -10,67 +10,56 @@ Deze leertaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die j
 In de workshop S07W3 - Sketchnoting your retrospect gaan we deze opdracht in stappen uitvoeren.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
+
 
 Je leert hoe je je schetstechnieken kan verbeteren.  
 Je leert hoe je een metafoor in een tekening kan toepassen.  
 Je leert op een andere manier naar je ontwikkeling te kijken en mogelijk nieuwe verbanden te zien.
 
 
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
-
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Opdracht: Maak een sketchnote/praatplaat van hoe jij afgelopen sprint ervaren hebt (een retrospect in de vorm van een metafoor).
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+### Analyseren en ontwerpen
 
-<details>
-<summary>Aanpak</summary>
+1.	Teken een tijdlijn.  
+2.	Teken op de tijdlijn enkele belangrijke gebeurtenissen die tijdens de sprint hebben plaatsgevonden.  
+3.	Teken boven de lijn een blije- en onder de lijn een verdrietige smiley.  
+4.	Schrijf op.  
+•	Gele post-its: onderwerpen die met het proces te maken hebben.  
+•	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
+•	Blauwe post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
+5.	Plak de post-its op de juiste plek op de tijdlijn.  
+6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een post-it en plak deze aan het eind van de tijdlijn.  
+7.	Bekijk en bespreek jouw retrospect met een klasgenoot (tijdens de workshop doen we deze bespreking gezamenlijk).    
+8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?  
+Bedenk een metafoor voor deze ervaring.   
+Bekijk eventueel de metafoor-kaarten voor inspiratie.
+9.	Maak een potloodschets van deze metafoor.   
+10.	Plaats hier ook de elementen in die je in de eerste schets van de tijdlijn had geplaatst.   
+11.	Probeer deze elementen in de metafoor te verwerken (bijvoorbeeld: als je als metafoor een weg gebruikt, kan je, van de dingen die niet goed gingen, wegversperringen of kuilen in de weg maken).  
+12.	Bespreek de schets met een klasgenoot.  
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+Bekijk samen wat je nog aan de inhoud zou kunnen verbeteren:   
+•	Staan de belangrijkste punten erop of zijn er nog meer?  
+•	Ben je specifiek genoeg of blijft alles nog algemeen en oppervlakkig?  
+•	Heb je een concreet verbeterpunt waar je mee verder kan tijdens de volgende sprint?  
 
+Bekijk samen wat je nog aan de vorm zou kunnen verbeteren:   
+•	Klopt de metafoor met hoe je de sprint hebt ervaren?  
+•	Is de metafoor voor de ander begrijpelijk?  
+•	Is de tekst leesbaar?  
+•	Is er hierarchie in typografie toegepast?  
+•	Heeft de praatplaat een titel?  
+•	Hoe is de vlakverdeling gedaan?  
+
+11.	Maak een nieuwe, definitieve tekening of werk je schets verder uit aan de hand van de feedback van je klasgenoot.  
+Pas nu ook hierarchie (d.m.v. kleur en verschillende lijndiktes) en eventueel schaduw toe.   
+	
+	
 #### Materiaal analysefase
 
 - [Resource](https://example.com)
@@ -79,77 +68,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 </details>
 
-### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal ontwerpfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ## Criteria
 *Definitions of done*
