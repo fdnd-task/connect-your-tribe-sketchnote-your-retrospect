@@ -1,27 +1,21 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
-# {Naam}
+# {Connect Your -Tribe - Sketchnote your retrospect}
 
-{Beschrijving van de leertaak}.
+{Oefen sketchnoting, schetsen, verhoudingen, hierarchie en kleurgebruik door jouw retrospect te schetsen. Krijg nieuwe inzichten door op een andere manier naar afgelopen sprint te kijken en metaforen te gebruiken }.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
+Deze leertaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je individueel uitvoert als experiment.
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
-
-
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
-
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+In de workshop S07W3 - Sketchnoting your retrospect gaan we deze opdracht in stappen uitvoeren.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Je leert hoe je je schetstechnieken kan verbeteren.  
+Je leert hoe je een metafoor in een tekening kan toepassen.  
+Je leert op een andere manier naar je ontwikkeling te kijken en mogelijk nieuwe verbanden te zien.
+
 
 <table>
     <tr>
