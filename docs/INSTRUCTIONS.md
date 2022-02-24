@@ -29,7 +29,6 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 2.	Teken op de tijdlijn enkele belangrijke gebeurtenissen die tijdens de sprint hebben plaatsgevonden.  
 3.	Teken boven de lijn een blije- en onder de lijn een verdrietige smiley.  
 4.	Schrijf op:  
-
 •	Gele post-its: onderwerpen die met het proces te maken hebben.  
 •	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
 •	Blauwe post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben. 
@@ -47,12 +46,12 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
  
 12.	Bespreek de schets met een klasgenoot.  
 
-Bekijk samen wat je nog aan de inhoud zou kunnen verbeteren:   
+	Bekijk samen wat je nog aan de inhoud zou kunnen verbeteren:   
 •	Staan de belangrijkste punten erop of zijn er nog meer?  
 •	Ben je specifiek genoeg of blijft alles nog algemeen en oppervlakkig?  
 •	Heb je een concreet verbeterpunt waar je mee verder kan tijdens de volgende sprint?  
 
-Bekijk samen wat je nog aan de vorm zou kunnen verbeteren:   
+	Bekijk samen wat je nog aan de vorm zou kunnen verbeteren:   
 •	Klopt de metafoor met hoe je de sprint hebt ervaren?  
 •	Is de metafoor voor de ander begrijpelijk?  
 •	Is de tekst leesbaar?  
