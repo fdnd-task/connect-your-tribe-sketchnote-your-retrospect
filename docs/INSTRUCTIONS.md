@@ -93,7 +93,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 ## Criteria
 Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten. Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
 
-Deze leertaak hoort bij het gedragscriterium:
+Deze leertaak hoort bij de volgende gedragscriteria:
 
 S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
 M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.
