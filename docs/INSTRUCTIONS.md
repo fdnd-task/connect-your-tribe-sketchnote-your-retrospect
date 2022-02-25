@@ -60,6 +60,18 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?  
 	Bedenk een metafoor voor deze ervaring.   
 	Bekijk eventueel de metafoor-kaarten voor inspiratie.  
+
+
+![1 Ballon-ruimtevaart](https://user-images.githubusercontent.com/55133339/155745108-63da44db-3733-43aa-b091-d1324fd450fd.jpg)
+![1 Eten+koken](https://user-images.githubusercontent.com/55133339/155745117-4f8e8b74-0ef5-4052-a12c-2f6be674c84d.jpg)
+![1 Films-boeken](https://user-images.githubusercontent.com/55133339/155745121-d369ce72-818e-44ea-b2fd-55675a536ce0.jpg)
+![1 Machines](https://user-images.githubusercontent.com/55133339/155745126-6994bc8a-94a9-4d3f-a948-14078dd8a0b0.jpg)
+![1 Natuur](https://user-images.githubusercontent.com/55133339/155745130-594a0125-804a-4306-b88c-2dde161be65a.jpg)
+![1 Oorlog](https://user-images.githubusercontent.com/55133339/155745135-570b5720-1507-4232-bc99-6a8a5f2a0e3f.jpg)
+![1 Reizen](https://user-images.githubusercontent.com/55133339/155745137-a650199f-58e4-4a0c-9766-36157c337ee5.jpg)
+![1 Sport](https://user-images.githubusercontent.com/55133339/155745139-fb502e4a-9f29-483f-984c-5e141d9ea1a1.jpg)
+![1 Verkeer](https://user-images.githubusercontent.com/55133339/155745141-0967e63e-7692-44e9-a15b-3ed024ab4ae2.jpg)
+
  
 9.	Maak een potloodschets van deze metafoor.   
 10.	Plaats hier ook de elementen in die je in de eerste schets van de tijdlijn had geplaatst.   
