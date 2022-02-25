@@ -28,29 +28,33 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 1.	Teken een tijdlijn.  
 2.	Teken op de tijdlijn enkele belangrijke gebeurtenissen die tijdens de sprint hebben plaatsgevonden.     
  
-![1](https://user-images.githubusercontent.com/55133339/155608242-67bbd286-57c6-4aef-8e6c-04e981deb3a9.png)
+![1](https://user-images.githubusercontent.com/55133339/155741645-96a781dd-d621-4275-8f02-07f2bdbe6449.png)
+
 
 3.	Teken boven de lijn een blije- en onder de lijn een verdrietige smiley.   
 
+![2_b](https://user-images.githubusercontent.com/55133339/155741672-13e5188d-78f7-4ce8-81d4-2e1a0fb6ac86.png)
 
-![2](https://user-images.githubusercontent.com/55133339/155608372-7b30b59f-46e7-48cd-a15a-e07622a1905a.png)
+
 
 4.	Schrijf op:  
 •	Gele post-its: onderwerpen die met het proces te maken hebben.  
 •	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
 •	Roze post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
 
-![3](https://user-images.githubusercontent.com/55133339/155608477-02bba81a-1978-4bc8-b52b-207d4eff987e.png)
+![3_c](https://user-images.githubusercontent.com/55133339/155741691-abe85faf-626a-4c75-9b55-e5fc8a158f83.png)
+
 
     
 5.	Plak de post-its op de juiste plek op de tijdlijn.   
- ![4](https://user-images.githubusercontent.com/55133339/155608504-5d5310c3-09fe-4b48-9960-24961cff1853.png)
+![4_d](https://user-images.githubusercontent.com/55133339/155741719-6be633bd-0b61-4548-bb88-652af3248b2e.png)
+
  
  
 
 6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een post-it en plak deze aan het eind van de tijdlijn.    
 
-![5](https://user-images.githubusercontent.com/55133339/155608580-0e8c4968-fd7f-424c-b6e6-99f28aaca634.png)
+![5_e](https://user-images.githubusercontent.com/55133339/155741749-8c48f357-6142-40e2-931c-9de2eae57213.png)
 
 7.	Bekijk en bespreek jouw retrospect met een klasgenoot (tijdens de workshop doen we deze bespreking gezamenlijk).    
 8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?  
