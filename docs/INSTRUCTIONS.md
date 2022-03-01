@@ -28,17 +28,21 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 1.	Teken een tijdlijn.  
 2.	Teken op de tijdlijn enkele belangrijke gebeurtenissen die tijdens de sprint hebben plaatsgevonden.     
- 
-![1](https://user-images.githubusercontent.com/55133339/155741645-96a781dd-d621-4275-8f02-07f2bdbe6449.png)
+
+![1](https://user-images.githubusercontent.com/55133339/156158800-74eec307-8342-46f2-a3bf-bb14a27685b0.jpg)
 
 
 3.	Teken boven de lijn een blije- en onder de lijn een verdrietige smiley.   
 
-![2_b](https://user-images.githubusercontent.com/55133339/155741672-13e5188d-78f7-4ce8-81d4-2e1a0fb6ac86.png)
+
+![2](https://user-images.githubusercontent.com/55133339/156158818-1557fbfd-df90-4711-94bf-ca1412aa49f2.jpg)
 
 
 
 4.	Schrijf linksonder in steekwoorden op wat de opdracht was (Situatie) en wat jouw Taak was:
+![3](https://user-images.githubusercontent.com/55133339/156158834-5ce2cb07-ba92-4ac7-92de-ebefec334fdc.jpg)
+
+
 
  
 5.	Schrijf of teken vervolgens:  
@@ -47,8 +51,14 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 	•	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
 	•	Op gele post-its onderwerpen die met de Activiteit te maken hebben.  
 	•	Op een gele post-it wat het Resultaat was.  
+	
+	![4](https://user-images.githubusercontent.com/55133339/156158855-66eb11d1-e16c-4bfc-99b2-28110a0446c4.jpg)
+
 
 	Plak de post-its op de juiste plek op de tijdlijn.
+	
+	![5](https://user-images.githubusercontent.com/55133339/156158871-9c1e62b1-eaea-4ea2-bb9a-bb24352dce32.png)
+
 	
 	
 6. 	Schrijf of teken vervolgens 
@@ -60,20 +70,21 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 	M: Je kiest binnen projecten passende fases van de development-lifecycle.  
 	M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.  
 	
+	![6](https://user-images.githubusercontent.com/55133339/156158924-1667600b-b06f-40e3-9fb8-ca98397e3c80.jpg)
+
+	
 	Plak ook deze post-its op de juiste plek op de tijdlijn.
 
-![3_c](https://user-images.githubusercontent.com/55133339/155741691-abe85faf-626a-4c75-9b55-e5fc8a158f83.png)
 
 
-
-![4_d](https://user-images.githubusercontent.com/55133339/155741719-6be633bd-0b61-4548-bb88-652af3248b2e.png)
+![7](https://user-images.githubusercontent.com/55133339/156158932-d6507fd5-cfe5-433b-9314-f34355941381.jpg)
 
  
  
 
 6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een oranje post-it en plak deze aan het eind van de tijdlijn.    
+![8](https://user-images.githubusercontent.com/55133339/156158957-364bef0e-0736-4b0f-ade0-aa20d37ab83d.jpg)
 
-![5_e](https://user-images.githubusercontent.com/55133339/155741749-8c48f357-6142-40e2-931c-9de2eae57213.png)
 
 7.	Bekijk en bespreek jouw retrospect met een klasgenoot (tijdens de workshop doen we deze bespreking gezamenlijk).    
 8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?    
@@ -93,8 +104,13 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
  
 9.	Maak een potloodschets van deze metafoor.   
-10.	Plaats hier ook de elementen in die je in de eerste schets van de tijdlijn had geplaatst.   
-11.	Probeer deze elementen in de metafoor te verwerken (bijvoorbeeld: als je als metafoor een weg gebruikt, kan je, van de dingen die niet goed gingen, 		wegversperringen of kuilen in de weg maken). 
+![9](https://user-images.githubusercontent.com/55133339/156158998-c5f59e0b-77a5-4556-93bb-157229632d9b.jpg)
+
+
+11.	Plaats hier (een deel van) de elementen in die je in de eerste schets van de tijdlijn had geplaatst.  
+Dit hoeven geen letterlijke elementen te zijn maar kan ook een, meer algemene, reflectie zijn, zie het voorbeeld van de achtbaan.  
+
+12.	Probeer deze elementen in de metafoor te verwerken (bijvoorbeeld: als je als metafoor een weg gebruikt, kan je, van de dingen die niet goed gingen, 		wegversperringen of kuilen in de weg maken). 
  
 12.	Bespreek de schets met een klasgenoot.  
 
