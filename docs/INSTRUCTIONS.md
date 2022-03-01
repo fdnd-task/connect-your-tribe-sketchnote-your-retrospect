@@ -41,7 +41,8 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 4.	Schrijf linksonder in steekwoorden op wat de opdracht was (Situatie) en wat jouw Taak was:
 
  
-5.	Schrijf of teken vervolgens 
+5.	Schrijf of teken vervolgens:  
+ 
 •	Op gele post-its onderwerpen die met de Situatie binnen het team of de klas te maken hebben.   
 •	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
 •	Op gele post-its onderwerpen die met de Activiteit te maken hebben.
