@@ -42,6 +42,12 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 •	Gele post-its: onderwerpen die met het proces te maken hebben.  
 •	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
 •	Roze post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
+•	Blauwe post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien:  
+
+S: Je werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden.  
+S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
+M: Je kiest binnen projecten passende fases van de development-lifecycle.  
+M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.  
 
 ![3_c](https://user-images.githubusercontent.com/55133339/155741691-abe85faf-626a-4c75-9b55-e5fc8a158f83.png)
 
