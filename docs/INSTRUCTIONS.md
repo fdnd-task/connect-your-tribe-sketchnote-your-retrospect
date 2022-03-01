@@ -11,10 +11,11 @@ In de workshop S07W3 - Sketchnoting your retrospect gaan we deze opdracht in sta
 
 ## Doel van deze opdracht
 
-
+Je leert je ontwikkeling in kaart brengen met behulp van schetstechnieken.
+Je leert op een andere manier naar je ontwikkeling kijken en mogelijk nieuwe verbanden zien.
 Je leert hoe je je schetstechnieken kan verbeteren.  
 Je leert hoe je een metafoor in een tekening kan toepassen.  
-Je leert op een andere manier naar je ontwikkeling kijken en mogelijk nieuwe verbanden zien.
+
 
 
 ## Werkwijze
