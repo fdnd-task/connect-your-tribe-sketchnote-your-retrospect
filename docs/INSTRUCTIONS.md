@@ -43,18 +43,18 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
  
 5.	Schrijf of teken vervolgens:  
  
-•	Op gele post-its onderwerpen die met de Situatie binnen het team of de klas te maken hebben.   
-•	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
-•	Op gele post-its onderwerpen die met de Activiteit te maken hebben.
-•	Op een gele post-it wat het Resultaat was.
+	•	Op gele post-its onderwerpen die met de Situatie binnen het team of de klas te maken hebben.   
+	•	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
+	•	Op gele post-its onderwerpen die met de Activiteit te maken hebben.  
+	•	Op een gele post-it wat het Resultaat was.  
 
 	Plak de post-its op de juiste plek op de tijdlijn.
 	
 	
 6. 	Schrijf of teken vervolgens 
 
-•	Op roze post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien aan de hand van een voorbeeld:  
-
+	Op roze post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien aan de hand van een voorbeeld:   
+	
 	S: Je werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden.  
 	S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
 	M: Je kiest binnen projecten passende fases van de development-lifecycle.  
