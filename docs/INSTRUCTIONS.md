@@ -41,7 +41,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 4.	Schrijf linksonder in steekwoorden op wat de opdracht was (Situatie) en wat jouw Taak was:
 
  
-5.	Schrijf vervolgens 
+5.	Schrijf of teken vervolgens 
 •	Op gele post-its onderwerpen die met de Situatie binnen het team of de klas te maken hebben.   
 •	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
 •	Op gele post-its onderwerpen die met de Activiteit te maken hebben.
@@ -50,7 +50,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 	Plak de post-its op de juiste plek op de tijdlijn.
 	
 	
-6. 	Schrijf vervolgens 
+6. 	Schrijf of teken vervolgens 
 
 •	Op roze post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien aan de hand van een voorbeeld:  
 
@@ -75,8 +75,8 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 ![5_e](https://user-images.githubusercontent.com/55133339/155741749-8c48f357-6142-40e2-931c-9de2eae57213.png)
 
 7.	Bekijk en bespreek jouw retrospect met een klasgenoot (tijdens de workshop doen we deze bespreking gezamenlijk).    
-8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?  
-	Bedenk een metafoor voor deze ervaring.   
+8.	Hoe heb je de afgelopen sprint ervaren? Hoe voelde je je tijdens deze sprint? Kan je dit ergens mee vergelijken?    
+9.	Bedenk een metafoor voor deze ervaring.   
 	Bekijk eventueel de metafoor-kaarten voor inspiratie.  
 
 
