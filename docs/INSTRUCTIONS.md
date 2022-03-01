@@ -38,28 +38,39 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 
 
-4.	Schrijf op:  
-•	Gele post-its: onderwerpen die met het proces te maken hebben.  
-•	Groene post-its: onderwerpen die met invloeden binnen het team of de klas te maken hebben.   
-•	Roze post-its: onderwerpen die met externe invloeden (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
-•	Blauwe post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien:  
+4.	Schrijf linksonder in steekwoorden op wat de opdracht was (Situatie) en wat jouw Taak was:
 
-S: Je werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden.  
-S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
-M: Je kiest binnen projecten passende fases van de development-lifecycle.  
-M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.  
+ 
+5.	Schrijf vervolgens 
+•	Op gele post-its onderwerpen die met de Situatie binnen het team of de klas te maken hebben.   
+•	Op gele post-its onderwerpen die met de Situatie buiten het team (opdrachtgevers maar ook persoonlijke omstandigheden, etc.) te maken hebben.  
+•	Op gele post-its onderwerpen die met de Activiteit te maken hebben.
+•	Op een gele post-it wat het Resultaat was.
+
+	Plak de post-its op de juiste plek op de tijdlijn.
+	
+	
+6. 	Schrijf vervolgens 
+
+•	Op roze post-its: de momenten waarop je een van de volgende gedragscriteria hebt laten zien aan de hand van een voorbeeld:  
+
+	S: Je werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden.  
+	S: Je draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.  
+	M: Je kiest binnen projecten passende fases van de development-lifecycle.  
+	M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.  
+	
+	Plak ook deze post-its op de juiste plek op de tijdlijn.
 
 ![3_c](https://user-images.githubusercontent.com/55133339/155741691-abe85faf-626a-4c75-9b55-e5fc8a158f83.png)
 
 
-    
-5.	Plak de post-its op de juiste plek op de tijdlijn.   
+
 ![4_d](https://user-images.githubusercontent.com/55133339/155741719-6be633bd-0b61-4548-bb88-652af3248b2e.png)
 
  
  
 
-6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een post-it en plak deze aan het eind van de tijdlijn.    
+6.	Bekijk de tijdlijn en bedenk één verbeterpunt of actie. Schrijf deze op een oranje post-it en plak deze aan het eind van de tijdlijn.    
 
 ![5_e](https://user-images.githubusercontent.com/55133339/155741749-8c48f357-6142-40e2-931c-9de2eae57213.png)
 
